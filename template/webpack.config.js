@@ -4,7 +4,7 @@ module.exports = {
   entry: './main.js',
   output: {
     filename: 'bundle.js',
-    path: path.join(__dirname, '/src')
+    path: path.join(__dirname, '/dist')
   },
   resolve: {
     alias: {
@@ -18,7 +18,7 @@ module.exports = {
     }]
   },
   devServer: {
-    contentBase: path.join(__dirname, "/src")
+    contentBase: path.join(__dirname, "/dist")
   }
 
 }
