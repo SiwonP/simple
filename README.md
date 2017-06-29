@@ -8,7 +8,7 @@
 
 This boilerplate is targeted at beginners who want to start exploring Vue without the distraction of a complicated development environment.
 
-For advanced features such as asset compilation, hot-reload, lint-on-save, unit testing, and CSS extraction, we recommend that more experienced developers use one of the [other templates](https://github.com/vuejs-templates/).
+For advanced features such as asset compilation, lint-on-save, unit testing, and CSS extraction, we recommend that more experienced developers use one of the [other templates](https://github.com/vuejs-templates/).
 
 ## Usage
 
@@ -23,3 +23,8 @@ $ npm install                         # Install npm dependencies and dev depende
 $ npm run dev                         # Run development server which should open at localhost:8080 with auto refresh
 $ npm run build                       # Run build of the bundle.js in the dist folder
 ```
+
+
+## State of the template
+
+This is in current development and it is likely to support more options as the time goes by
