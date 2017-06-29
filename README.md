@@ -1,8 +1,8 @@
 # vue-simple-boilerplate
 
-> The simplest possible Vue setup in a single HTML file
+> The simplest possible Vue setup in a simpler webpack environment that the webpack Vue setup
 
-> This template is Vue 2.0 compatible. For Vue 1.x use this command: `vue init simple#1.0 my-project`
+> This template is Vue 2.0 compatible.
 
 ### Before You Start...
 
