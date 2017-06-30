@@ -5,7 +5,7 @@
       "required": true,
       "label": "Project name"
     },
-    "author": {
+    "author": {
       "type": "string",
       "required": true,
       "label Author"
