@@ -8,7 +8,7 @@
     "author": {
       "type": "string",
       "required": true,
-      "label Author"
+      "label": "Author"
     }
   }
 }
