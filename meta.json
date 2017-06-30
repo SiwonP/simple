@@ -1,3 +1,9 @@
 {
-  "schema": {}
+  "prompts": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "label": "Project name"
+    }
+  }
 }
