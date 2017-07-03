@@ -9,6 +9,11 @@
       "type": "string",
       "required": true,
       "label": "Author"
+    },
+    "description": {
+      "type": "string",
+      "required": false,
+      "label": "Description"
     }
   }
 }
