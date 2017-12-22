@@ -15,6 +15,9 @@ module.exports = {
     },
     module: {
         rules: [{
+            test: /\.(jpg|png|jpeg|gif)$/,
+            loader :'file-loader'
+        },{
             test: /\.vue$/,
             loader: 'vue-loader'
         }, {
