@@ -1,3 +1,19 @@
 {
-  "schema": {}
+  "prompts": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "label": "Project name"
+    },
+    "author": {
+      "type": "string",
+      "required": true,
+      "label": "Author"
+    },
+    "description": {
+      "type": "string",
+      "required": false,
+      "label": "Description"
+    }
+  }
 }

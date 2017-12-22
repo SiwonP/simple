@@ -1,8 +1,9 @@
 {
-  "name": "siwon-template",
+  "name": "{{name}}",
   "version": "1.0.0",
-  "description": "A simple webpack template made for advanced and beginner users that want to understand and control their project from bottom to top",
+  "description": "{{description}}",
   "main": "index.js",
+  "author": "{{author}}",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "./node_modules/.bin/webpack",
