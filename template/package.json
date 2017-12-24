@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/SiwonP/simple#readme",
   "dependencies": {
-    "vue": "^2.3.4"
+    "vue": "^2.3.4",
+    "vue-router": "^3.0.1"
   },
   "devDependencies": {
     "css-loader": "^0.28.4",
