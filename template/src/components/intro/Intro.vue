@@ -1,6 +1,6 @@
 <template>
 <div>
-    <h1>Welcome to your nex Vue app</h1>
+    <h1>Welcome to your new Vue app</h1>
 </div>
 </template>
 
